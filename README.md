@@ -13,9 +13,10 @@ Merhaba! Türkiye'de yaşayan ve çeşitli projelerde deneyim kazanmış bir Sen
 
 ### Kullandığım Teknolojiler
 
-- **Frontend:** React.js, Redux.js, HTML, CSS, JavaScript
-- **Backend:** Node.js, Express.js
-- **Veritabanı:** MariaDB, MSSQL
+- **Frontend:** React.js, Redux.js, HTML, CSS, JavaScript, PrimeReact, React-Icons,
+- **Backend:** Node.js, Express.js, Django, NestJS,
+- **Native:** React-Native,
+- **Veritabanı:** MariaDB, MSSQL, MongoDB vs.
 - **Diğer:** Git, .Net
 
 ---
