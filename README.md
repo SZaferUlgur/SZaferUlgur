@@ -1,4 +1,4 @@
-# Merhaba, Ben Serhat Zafer Ülgür 👋
+# Web Developer Serhat Zafer Ülgür 👋
 
 🚀 **Kendince Senior Yazılım Geliştirici**  
 🔧 **Node.js | React.js | Redux.js | MariaDB | MSSQL**
