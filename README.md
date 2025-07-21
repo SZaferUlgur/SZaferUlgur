@@ -1,7 +1,7 @@
 # Web Developer Serhat Zafer Ülgür 👋
 
 🚀 **Kendince Senior Yazılım Geliştirici**  
-🔧 **Node.js | React.js | Redux.js | MariaDB | MSSQL**
+🔧 **NodeJS | Golang | ReactJS | ReduxJS | MariaDB | MsSQL | MySQL** 
 
 ---
 
